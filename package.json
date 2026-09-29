@@ -1,11 +1,11 @@
 {
-  "name": "js-blended-starter-mod-1-6",
+  "name": "blended-example",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/js-blended-starter-mod-1-6/",
+    "build": "vite build --base=/blended-example/",
     "preview": "vite preview"
   },
   "devDependencies": {
