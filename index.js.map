@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"index.js","sources":["../src/main.js"],"sourcesContent":["// task-01\nconsole.log('Виконує завдання 1 учасник');\n"],"names":[],"mappings":"ssBACA,QAAQ,IAAI,4BAA4B"}
