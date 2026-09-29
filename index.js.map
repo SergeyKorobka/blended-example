@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":["../src/main.js"],"sourcesContent":["// task-01\nconsole.log('Виконує завдання 1 учасник');\n"],"names":[],"mappings":"ssBACA,QAAQ,IAAI,4BAA4B"}
+{"version":3,"file":"index.js","sources":["../src/main.js"],"sourcesContent":["// task-01\nconsole.log('Виконує завдання 1 учасник');\n\n// task-02\nconsole.log('Виконує завдання 2 учасник');\n"],"names":[],"mappings":"ssBACA,QAAQ,IAAI,4BAA4B,EAGxC,QAAQ,IAAI,4BAA4B"}
